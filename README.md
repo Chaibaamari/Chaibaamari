@@ -34,6 +34,23 @@ vulnerability research, and real-world CVE analysis.
 - **Twitter**: [@chogu_security](https://x.com/0xc_h_a_i_b_a)
 - **LinkedIn**: [AMARI CHAIBA](https://www.linkedin.com/in/amari-chaiba-01b97924b/)
 
----
+## 🎓 Skills & Tools
 
-*Learning in public. Breaking things to fix them. Always hungry to learn more.* 🔐
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### Tools & Platforms
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+### Security Domains
+![Web Security](https://img.shields.io/badge/Web%20Security-FF6B6B?style=flat&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-FF4757?style=flat&logoColor=white)
+![Red Teaming](https://img.shields.io/badge/Red%20Teaming-F36C60?style=flat&logoColor=white)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-FC6D26?style=flat&logoColor=white)
+
