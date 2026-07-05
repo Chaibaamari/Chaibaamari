@@ -31,9 +31,10 @@ vulnerability research, and real-world CVE analysis.
 
 ## 📫 Connect With Me
 - **Blog**: [Medium](https://medium.com/@chaibaamari2)
-- **Twitter**: [@chogu_security](https://x.com/0xc_h_a_i_b_a)
+- **Twitter**: [AMARI CHAIBA](https://x.com/0xc_h_a_i_b_a)
 - **LinkedIn**: [AMARI CHAIBA](https://www.linkedin.com/in/amari-chaiba-01b97924b/)
 
+---
 ## 🎓 Skills & Tools
 
 ### Languages
